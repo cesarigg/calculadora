@@ -17,8 +17,7 @@ import com.okana.calculadora.Greeting
             }
             composable("greeting") {
                 Greeting(
-                    name = "Android",
-                    //modifier = Modifier.padding(innerPadding)
+                    name = "Android"
                 )
             }
 
